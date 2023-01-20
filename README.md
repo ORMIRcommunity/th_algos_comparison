@@ -1,1 +1,1 @@
-# comparing_thickness_algorithms
+# comparing thickness algorithms
