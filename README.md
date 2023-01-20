@@ -1,4 +1,11 @@
-# Comparing Thickness Algorithms
+# Open conversations
 
-Aim: To compare algorithms that calculate thickness from binary mask images
+In this repository we host the open conversations of the [ORMIR community](https://ormircommunity.github.io/)
+
+
+## Current open conversations:
+- Comparing thickness algorithms
+  - Conversation: here
+  - Coding material: here
+
 
